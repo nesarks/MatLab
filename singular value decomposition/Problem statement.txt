@@ -1,0 +1,21 @@
+PROBLEM STATEMENT
+
+i. Construct a matrix of order 2x3 or 3x2 based on your last two digits of
+USN is even or odd respectively.
+ii. The elements of 2x3 are a11=DD, a12=MM, a13=YY, a21= D5D6,
+a22= D7D8 and a23= D9D10 and the elements of 3x2 are a11=DD, a12=
+D1D2, a21= MM, a22= D3D4, a31= YY and a32= D5D6.
+iii. Find the singular value decomposition of the obtained matrix
+iv. Verify your answer by solving the same problem in MATLAB using
+inbuilt code
+
+where,
+USN = 21BTRCS039
+DD =24
+MM =09
+YY =03
+D1D2 = 84
+D3D4 = 31
+D5D6 = 67
+D7D8 = 31
+D9D10 = 98
