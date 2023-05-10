@@ -1,0 +1,19 @@
+i. Model an electrical system for determining charge ‘q’ and the circuit consists of the
+components involving inductor, resistor and capacitor with some input voltage.
+where,
+The input voltage = (10+Avg (USN’s (D 2 D 3 ))) sin200t,
+Inductance in henry=median (USN’s(D 2 D 3 ) of all students in a group,
+Resistance in ohm =mode (YY) of all students in a group and
+Capacitance in F =ceil (avg (DD)) of all students in a group
+ii. Find the state space model and solve the differential equation.
+iii. Verify your answer by solving the same problem in MATLAB using inbuilt code.
+
+Avg D2D3 = 22
+Median D2D3 = 25
+MODE YY = 03
+Avg DD = 17.6667 =18
+
+input voltage = (10+22) sin200t 
+inductance in henry = 25
+Resistance in ohm = 03
+Capacitance in F = ceil(18)
